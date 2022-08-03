@@ -1,0 +1,11 @@
+h1{
+    color: rgb(28, 28, 43);
+}
+body{
+    background: rgb(168, 219, 223);
+}
+img {
+    width: 150px;
+    border-radius: 50%;
+    border: 4px dotted white
+}
